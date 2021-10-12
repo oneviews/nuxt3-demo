@@ -1,6 +1,7 @@
 # Nuxt 3 Minimal Starter
 
-[Nuxt 3 Demo](https://nuxt3-demo.thefubon.com).
+[Nuxt 3 Demo](https://nuxt3-demo.thefubon.com)
+
 [Nuxt 3 Api](https://nuxt3-demo.thefubon.com/api/hello)
 
 We recommend to look at the [documentation](http://v3.nuxtjs.org).
