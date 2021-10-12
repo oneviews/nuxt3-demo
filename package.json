@@ -1,7 +1,7 @@
 {
   "private": true,
   "scripts": {
-    "dev": "nuxt dev",
+    "dev": "nuxt dev -o",
     "build": "nuxt build",
     "start": "node .output/server"
   },
