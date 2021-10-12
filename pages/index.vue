@@ -10,7 +10,6 @@
         max-w-md
         rounded-lg
         text-center
-        shadow
       "
     >
       Test Page
@@ -23,8 +22,8 @@
         py-2
         max-w-md
         rounded-lg
-        text-center
-        shadow" href="/api/hello">
+        text-center" 
+        href="/api/hello">
         Api (Hello)
     </a>
   </div>
